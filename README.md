@@ -11,12 +11,13 @@ Bankruptcy prediction is the task of predicting bankruptcy and various measures 
 The aim of predicting financial distress is to develop a predictive model that combines various econometric parameters which allow foreseeing the financial condition of a firm. In this project we document our observations as we explore, build, and compare, some of the widely used classification models:   
 
 <b>
-1. Gaussian Naïve Bayes   
-2. Logistic Regression   
-3. Decision Trees   
-4. Random Forests   
-5. Extreme Gradient Boosting   
-6. Balanced Bagging 
+  
+  1. Gaussian Naïve Bayes  
+  2. Logistic Regression   
+  3. Decision Trees   
+  4. Random Forests   
+  5. Extreme Gradient Boosting   
+  6. Balanced Bagging 
 </b> 
 
 We have chosen the Polish companies’ bankruptcy data set where synthetic features were used to reflect higher-order statistics.  
