@@ -1,8 +1,12 @@
 # Bankruptcy-Prediction
 ## Mining the Polish Bankruptcy Data
-### Tags: Data Mining, Machine Learning, Data Visualization.
+##### Tags: Data Mining, Machine Learning, Data Visualization.
 
 #### Co-created by [Sree Keerthi Matta](https://github.com/sreekmatta)
+
+#### Links:   
+Project presentation: [slideshow](https://1drv.ms/p/s!Ar1FVxllTqB6yWZl9iXqvFmmqU7H)   
+Dataset: [Polish Bankruptcy Dataset](http://archive.ics.uci.edu/ml/datasets/Polish+companies+bankruptcy+data)   
 
 ### Summary:
 
