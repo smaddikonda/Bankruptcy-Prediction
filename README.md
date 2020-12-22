@@ -1,3 +1,4 @@
+I have made a change. 
 # Bankruptcy-Prediction
 ## Mining the Polish Bankruptcy Data
 ##### Tags: Data Mining, Machine Learning, Data Visualization.
